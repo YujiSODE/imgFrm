@@ -7,6 +7,6 @@ https://github.com/YujiSODE/imgFrm
 >See LICENSE or http://opensource.org/licenses/mit-license.php
 ______
 
-##Script
+## Script
 * imgFrm.html
 * defaultImg.png
